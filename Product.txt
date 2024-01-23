@@ -1,0 +1,21 @@
+TB138768 	Noel_Kalicharan_Data_Structures_In_C 
+		Asr 4		Mo 5		Michelle 4		Unik 4			
+		###
+
+
+TB206788	Permanand_Mohan_Fundamentals_Of_Object_Oriented_Programming_In_Java
+		Sheri 5		Omar 5		Lexxsousa 4
+		###
+
+EL4323612	SAMSUNG_50_Inch_Class_Crystal_UHD_AU8000_Series
+		Mo 2		Unik 2
+		###
+
+SP3456		Apple_Phone_12_Pro_Max_256GB_Gold_Unlocked
+		###
+
+SP3566		Samsung_Galaxy_S21_Ultra_5G_G9980_512GB_16GB_RAM
+		CBest 1		ANRaj 3		Omar 4
+		###
+		
+END
